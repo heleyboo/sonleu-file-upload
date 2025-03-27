@@ -1,11 +1,11 @@
 {
-    "name": "sonleu/sonleu-file-upload",
+    "name": "hoandv/sonleu-file-upload",
     "description": "File upload support library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Son Leu",
-            "email": "boyvn2911@gmail.com",
+            "name": "Hoan Do",
+            "email": "vanhoan90it6@gmail.com",
             "role": "developer"
         }
     ],
